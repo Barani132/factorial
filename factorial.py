@@ -1,5 +1,4 @@
 #factorial (recursion)
-
 def factorial(num):
     if num==0:
         return 1
